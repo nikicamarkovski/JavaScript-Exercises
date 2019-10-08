@@ -1,0 +1,24 @@
+.class1{
+color:red;
+
+}
+
+
+#root  img {
+height: 250px;
+width:330px;
+}
+
+#root {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    text-align : center;
+}
+
+#root div {
+    margin : 20px;
+}
